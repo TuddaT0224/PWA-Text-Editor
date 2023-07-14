@@ -9,8 +9,9 @@
 ## Description
 This application is a web text editor that allows you to create notes or code snippets. You should be able to access it with or without internet also it follows the PWA criteria.
 
-[Link to Heroku Application]()
-[URL of the GitHub repository](https://github.com/TuddaT0224/PWA-Text-Editor.git)
+*[Link to Heroku Application]()
+
+*[URL of the GitHub repository](https://github.com/TuddaT0224/PWA-Text-Editor.git)
 
 ## User Story
 AS A developer
