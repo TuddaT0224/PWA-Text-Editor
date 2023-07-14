@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="images/logo.png">
+<img src="client/src/images/logo.png">
 </p>
 
 
