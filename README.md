@@ -10,7 +10,7 @@
 This application is a web text editor that allows you to create notes or code snippets. You should be able to access it with or without internet also it follows the PWA criteria.
 
 [Link to Heroku Application]()
-[URL of the GitHub repository]()
+[URL of the GitHub repository](https://github.com/TuddaT0224/PWA-Text-Editor.git)
 
 ## User Story
 AS A developer
@@ -67,9 +67,18 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 npm run start
-![Alt Text]( )
-![Alt Text]( )
-![Alt Text]( )
+This animation demonstrates the application functionality:
+![Alt Text](![Untitled_ Jul 13, 2023 11_28 PM](https://github.com/TuddaT0224/PWA-Text-Editor/assets/123923383/0aac32a0-2160-4ebf-8d3d-87195d85d97b)
+
+This image shows the application's manifest.json file
+![Alt Text]( ![Screenshot 2023-07-13 232334](https://github.com/TuddaT0224/PWA-Text-Editor/assets/123923383/80ed423c-fb7e-4975-a19e-f916a75ad5f2)
+
+This image shows the application's registered service worker:
+![Alt Text](![Screenshot 2023-07-13 232347](https://github.com/TuddaT0224/PWA-Text-Editor/assets/123923383/51750aeb-daed-4b8f-b54c-9298c1ee0e5b)
+
+ This image shows the application's IndexedDB storage:
+ ![Alt Text](![Screenshot 2023-07-13 232559](https://github.com/TuddaT0224/PWA-Text-Editor/assets/123923383/4ae25e38-678d-4615-af5c-a2e7dc43c094)
+
 
 ## Contributing
 Author: Trezz Tillman
